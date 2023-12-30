@@ -1,9 +1,3 @@
-# File: Project1.py
-# Student: Sanjitha Venkata
-# UT EID: sv28325
-# Course Name: CS303E
-# 
-# Date Created: 9/28/2023
 # Description of Program: Takes input of month in integer form, outputs calendar month of 2024 
 
 #input month
